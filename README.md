@@ -4,7 +4,7 @@ A comprehensive collection of MCP servers and clients demonstrating how to build
 
 ## 📖 About This Repository
 
-This repository contains all the code examples from the article ["Master Model Context Protocol: Build AI Agents That Connect to Anything"](http://medium.com/mrmaheshrajput/). The examples progress from simple "Hello World" servers to multi-server production architectures.
+This repository contains all the code examples from the article ["AI Engineer's Guide to Model Context Protocol (MCP)"](https://mrmaheshrajput.medium.com/ai-engineers-guide-to-model-context-protocol-mcp-a6559586acea). The examples progress from simple "Hello World" servers to multi-server production architectures.
 
 Model Context Protocol (MCP) is Anthropic's open standard for connecting AI assistants to external data sources and tools. Instead of hardcoding tools for each AI application, MCP enables dynamic discovery and connection to various systems.
 
